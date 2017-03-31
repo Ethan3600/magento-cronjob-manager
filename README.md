@@ -1,5 +1,5 @@
 # Magento Cronjob Manager
-Simple. Easy. Magento Cron Manager
+Simple. Easy. Free. Magento Cron Job Manager
 
 Works with Magento 1.9.2.4
 
