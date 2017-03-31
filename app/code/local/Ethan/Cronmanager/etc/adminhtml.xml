@@ -5,11 +5,11 @@
             <sort_order>999</sort_order>
             <action>adminhtml/cronmanager_index</action> -->
             <children>
-                <manage translate="title" module="cronmanager">
+                <cronmanager translate="title" module="cronmanager">
                     <title>Cron Job Manager</title>
                     <action>adminhtml/cronmanager_index</action>
                     <sort_order>99</sort_order>
-                </manage>
+                </cronmanager>
             </children>
          </system>
     </menu>
@@ -17,28 +17,18 @@
         <resources>
             <admin>
                 <children>
-                    <cronmanager translate="title" module="cronmanager">
-                        <title>Cron Manager</title>
-                        <sort_order>90</sort_order>
+                    <!-- <cronmanager translate="title" module="cronmanager">
+                        <title>Cron Job Manager</title>
+                        <sort_order>1</sort_order>
+                    </cronmanager> -->
+                    <system>
                         <children>
-                            <manage translate="title">
-                                <title>Manage Cron Jobs</title>
-                                <sort_order>0</sort_order>
-                            </manage>
+                            <cronmanager translate="title" module="cronmanager">
+                                <title>Cron Manager</title>
+                                <sort_order>90</sort_order>
+                            </cronmanager>
                         </children>
-                    </cronmanager>
-                    <!-- <system>
-                        <children>
-                            <config>
-                                <children>
-                                    <cronmanager translate="title" module="cronmanager">
-                                        <title>Cron Manager</title>
-                                        <sort_order>50</sort_order>
-                                    </cronmanager>
-                                </children>
-                            </config>
-                        </children>
-                    </system> -->
+                    </system>
                 </children>
             </admin>
         </resources>
