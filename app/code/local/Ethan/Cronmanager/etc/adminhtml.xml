@@ -1,0 +1,46 @@
+<config>
+    <menu>
+        <system translate="title" module="cronmanager">
+            <!-- <title>Cron Job Manager</title>
+            <sort_order>999</sort_order>
+            <action>adminhtml/cronmanager_index</action> -->
+            <children>
+                <manage translate="title" module="cronmanager">
+                    <title>Cron Job Manager</title>
+                    <action>adminhtml/cronmanager_index</action>
+                    <sort_order>99</sort_order>
+                </manage>
+            </children>
+         </system>
+    </menu>
+    <acl>
+        <resources>
+            <admin>
+                <children>
+                    <cronmanager translate="title" module="cronmanager">
+                        <title>Cron Manager</title>
+                        <sort_order>90</sort_order>
+                        <children>
+                            <manage translate="title">
+                                <title>Manage Cron Jobs</title>
+                                <sort_order>0</sort_order>
+                            </manage>
+                        </children>
+                    </cronmanager>
+                    <!-- <system>
+                        <children>
+                            <config>
+                                <children>
+                                    <cronmanager translate="title" module="cronmanager">
+                                        <title>Cron Manager</title>
+                                        <sort_order>50</sort_order>
+                                    </cronmanager>
+                                </children>
+                            </config>
+                        </children>
+                    </system> -->
+                </children>
+            </admin>
+        </resources>
+    </acl>
+</config>

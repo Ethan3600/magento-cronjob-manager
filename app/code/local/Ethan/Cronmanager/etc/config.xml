@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ethan_Cronmanager>
+            <version>1.0.0</version>
+        </Ethan_Cronmanager>
+    </modules>
+    <global>
+        <models>
+            <cronmanager>
+                <class>Ethan_Cronmanager_Model</class>
+            </cronmanager>
+        </models>
+        <blocks>
+            <cronmanager>
+                <class>Ethan_Cronmanager_Block</class>
+            </cronmanager>
+        </blocks>
+        <helpers>
+            <cronmanager>
+                <class>Ethan_Cronmanager_Helper</class>
+            </cronmanager>
+        </helpers>
+    </global>
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <cronmanager before="Mage_Adminhtml">Ethan_Cronmanager_Adminhtml</cronmanager>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+</config>

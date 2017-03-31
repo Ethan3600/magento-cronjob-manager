@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Ethan_Cronmanager>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Cron/>
+            </depends>
+        </Ethan_Cronmanager>
+    </modules>
+</config>
