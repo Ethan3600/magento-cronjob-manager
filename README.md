@@ -20,3 +20,17 @@ __This module can:__
 * Change scheduled magento cron jobs
 
 * Flush out old magento cron jobs
+
+
+## Why this instead of AOE Scheduler?
+
+AOE Scheduler definitely has a lot more bells and whistles to it and it's a great piece of software!
+
+But this module is able mitigate all the major problems that AOE Scheduler solved with half the amount of code (probably less).
+From what I can tell, this module is a lot "lighter" in comparison, and it doesn't need any installation scripts. (So no database manipulation upon installation)
+
+Also, I personally think this is the most intuitive way to handle Cron jobs from the backend UI.
+
+> P.s. I had no intention of rivaling another extention. I just wanted to make something and share it =)
+
+(sceenshots comming soon)
