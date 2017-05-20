@@ -41,5 +41,5 @@ Also, I personally think this is the most intuitive way to handle Cron jobs from
 
 ![Edit Cron job](https://www.screencast.com/t/Q4HGDNbsmwkZ "Edit A Cron job")
 
-![Add New Cron job]("https://www.screencast.com/t/XzPxyd7DNn" "Add New Cron job")
+![Add New Cron job](https://www.screencast.com/t/XzPxyd7DNn "Add New Cron job")
 
