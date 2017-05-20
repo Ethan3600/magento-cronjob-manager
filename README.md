@@ -1,7 +1,7 @@
 # Magento Cronjob Manager
 Simple. Easy. Free. Magento Cron Job Manager
 
-Works with Magento 1.9.2.4
+Works with Magento 1.9.2.4, 1.9.3.1
 
 > Hasn't been tested on older versions
 
@@ -33,4 +33,13 @@ Also, I personally think this is the most intuitive way to handle Cron jobs from
 
 > P.s. I had no intention of rivaling another extention. I just wanted to make something and share it =)
 
-(sceenshots comming soon)
+### Sceenshots
+
+![Admin Dashboard](https://www.screencast.com/t/cnAnm4zxcHu "Admin Dashboard")
+
+![CJM Dashboard](https://www.screencast.com/t/PoSH11So8gdM "CJM Dashboard")
+
+![Edit Cron job](https://www.screencast.com/t/Q4HGDNbsmwkZ "Edit A Cron job")
+
+![Add New Cron job](https://www.screencast.com/t/XzPxyd7DNn "Add New Cron job")
+
