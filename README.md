@@ -35,11 +35,11 @@ Also, I personally think this is the most intuitive way to handle Cron jobs from
 
 ### Sceenshots
 
-![Admin Dashboard](https://www.screencast.com/t/cnAnm4zxcHu "Admin Dashboard")
+![Admin Dashboard](https://www.screencast.com/t/cnAnm4zxcHu/ "Admin Dashboard")
 
-![CJM Dashboard](https://www.screencast.com/t/PoSH11So8gdM "CJM Dashboard")
+![CJM Dashboard](https://www.screencast.com/t/PoSH11So8gdM/ "CJM Dashboard")
 
-![Edit Cron job](https://www.screencast.com/t/Q4HGDNbsmwkZ "Edit A Cron job")
+![Edit Cron job](https://www.screencast.com/t/Q4HGDNbsmwkZ/ "Edit A Cron job")
 
-![Add New Cron job](https://www.screencast.com/t/XzPxyd7DNn "Add New Cron job")
+![Add New Cron job](https://www.screencast.com/t/XzPxyd7DNn/ "Add New Cron job")
 
