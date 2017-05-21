@@ -35,5 +35,16 @@ Also, I personally think this is the most intuitive way to handle Cron jobs from
 
 ### Sceenshots
 
-Coming soon
+#### Admin Dashboard
+![Admin Dashboard](https://github.com/Ethan3600/magento-cronjob-manager/blob/master/img/mage_dash.png "Magento Admin Dashboard")
+
+#### Cron Job Manager Dashboard
+![CJM Dashboard](https://github.com/Ethan3600/magento-cronjob-manager/blob/master/img/cjm_dash.png "CJM Dashboard")
+
+#### Editing a Cron Job
+![Edit Cron job](https://github.com/Ethan3600/magento-cronjob-manager/blob/master/img/edit_cj.png "Edit A Cron job")
+
+#### Adding a new Cron Job
+![Add New Cron job](https://github.com/Ethan3600/magento-cronjob-manager/blob/master/img/new_cj.png "Add New Cron job")
+
 
