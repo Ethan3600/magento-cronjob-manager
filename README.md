@@ -1,4 +1,11 @@
-# Magento Cronjob Manager
+# Magento Cronjob Manager [Abandoned]
+
+I'm no longer supporting this module :( 
+
+But, you can checkout my [Cron Job Manager for Magento 2](https://github.com/Ethan3600/magento2-CronjobManager)!!!
+
+------
+
 Simple. Easy. Free. Magento Cron Job Manager
 
 Works with Magento 1.9.2.4, 1.9.3.1
